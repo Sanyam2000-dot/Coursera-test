@@ -1,0 +1,17 @@
+.body_header {
+	background-color: #ffbc00;
+	font-family: monospace;
+	text-align: center;
+
+}
+.profile_picture {
+	height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.content{
+	size: 100px;
+}
+h3{
+	size: 100px;
+}
